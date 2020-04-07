@@ -1,0 +1,1 @@
+print("I have successfuly linked my RStudio to my Github account!")
